@@ -1,5 +1,5 @@
 # Account 계좌 시스템
-Account(계좌) 시스템
+Account(계좌) 시스템 (학습용 프로젝트)
 
 # 기술 & 툴
 - Java jdk 11
